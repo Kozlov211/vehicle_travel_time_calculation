@@ -4,7 +4,7 @@
 The program counts travel time and stop time per day
 
 ## Usage example
-The program is called "vehicle_travel_time_calculation".
+The program is called "vehicle_travel_time_calculation" in build.
 
 Input data - format file "csv" with columns: DateTime,ID,Speed.
 
